@@ -14,13 +14,11 @@ body {
     overflow: hidden;
     background: #141414;
     height: 50vh;
-    /*border: 2px solid orange;*/
     display: flex;
     flex-direction: column;
 }
 
 .logo {
-    /*border: 2px solid red;*/
     display: flex;
     height: 100%;
     margin: 0 auto;
@@ -29,7 +27,6 @@ body {
 .logo-container{
     overflow: hidden;
     height: 70%;
-    /*border: 2px solid pink;*/
 }
 
 .second-container {
