@@ -113,6 +113,7 @@ ul {
 
  #insta-link{
      transition: all .5s ease-in-out;
+     filter: brightness(0) invert(1);
       -webkit-filter: brightness(0) invert(1); /* Webkit Nightlies & Chrome Canary */
       -webkit-transition: all .5s ease-in-out;
  }
